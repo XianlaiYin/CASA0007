@@ -8,7 +8,7 @@ date: 02/12/2022
 
 #### Title 15s
 
-如何在西雅图拥有一个受欢迎的Airbnb房源？
+西雅图Airbnb房源价格影响因素分析
 
 #### Content 25s
 
